@@ -2,7 +2,7 @@
 This is just a collection of Red and blue team tools
 
 Red Tools
--Inital Access
+* Inital Access
 
 -Execution
 
