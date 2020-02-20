@@ -2,7 +2,7 @@
 This is just a collection of Red and blue team tools I developed.
 
 
-Just click on the links below to view the code for each.
+(Just click on the blue hyperlinked text below to view the code for each.)
 
 Red Tools:
 * Inital Access
