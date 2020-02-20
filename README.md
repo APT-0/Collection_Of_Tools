@@ -1,7 +1,7 @@
 # Collection_Of_Tools
 This is just a collection of Red and blue team tools
 
-Red Tools:
+Red Tools
 **Inital Access
 *Execution
 *Persistence
@@ -16,8 +16,8 @@ Red Tools:
 *Exfiltration
 *Impact
 
-Blue Tools:
+Blue Tools
 
 
 
-Automation or other:
+Automation or other
