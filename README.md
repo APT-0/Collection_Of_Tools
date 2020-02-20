@@ -21,7 +21,7 @@ Red Tools:
 * Collection
 
 * Command and Control
-  * Reverse Shell: https://github.com/APT-0/Collection_Of_Tools/blob/master/simplereversecommandshell.py
+  * [Reverse Shell](https://github.com/APT-0/Collection_Of_Tools/blob/master/simplereversecommandshell.py):
  
 * Exfiltration
 
