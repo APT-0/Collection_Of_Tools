@@ -4,29 +4,29 @@ This is just a collection of Red and blue team tools
 Red Tools:
 * Inital Access
 
-*Execution
+* Execution
 
-*Persistence
+* Persistence
 
-*Privilege Escalation
+* Privilege Escalation
 
-*Defense Evasion
+* Defense Evasion
 
-*Credential Access
+* Credential Access
 
-*Discovery
+* Discovery
 
-*Lateral Movement
+* Lateral Movement
 
-*Collection
+* Collection
 
-*Command and Control
+* Command and Control
 
- *Reverse Shell
+ - Reverse Shell:
  
-*Exfiltration
+* Exfiltration
 
-*Impact
+* Impact
 
 Blue Tools
 
