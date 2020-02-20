@@ -1,5 +1,8 @@
 # Collection_Of_Tools
-This is just a collection of Red and blue team tools
+This is just a collection of Red and blue team tools I developed.
+
+
+Just click on the links below to view the code for each.
 
 Red Tools:
 * Inital Access
@@ -21,7 +24,7 @@ Red Tools:
 * Collection
 
 * Command and Control
-  * [Reverse Shell](https://github.com/APT-0/Collection_Of_Tools/blob/master/simplereversecommandshell.py):
+  * [Reverse Shell](https://github.com/APT-0/Collection_Of_Tools/blob/master/simplereversecommandshell.py)
  
 * Exfiltration
 
