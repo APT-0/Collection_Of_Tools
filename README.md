@@ -21,7 +21,7 @@ Red Tools:
 * Collection
 
 * Command and Control
- * Reverse Shell:
+  * Reverse Shell:
  
 * Exfiltration
 
